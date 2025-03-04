@@ -1,5 +1,6 @@
-# 💫 About Me
+# About Me
 Senior Physics Major at Wagner College<br>Currently learning about coding and data analysis<br>
+
 
 
 ## 🌐 Socials
